@@ -12,4 +12,4 @@ def consult():
 
     return render_template('consultation.html')
 
-app.run(debug=True)
+app.run(debug=True,)
